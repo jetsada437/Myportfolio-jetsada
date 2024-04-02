@@ -92,7 +92,7 @@ export const Home = () => {
                     <Box sx={{ width: 400 }}>
                       <img src={resume} alt="Your Image" style={{ maxWidth: '100%', height: 'auto' }} />
                       <div  style={{ display: 'flex', justifyContent: 'center', marginTop: '10px' , marginBottom: '10px'}}>
-                      <Button variant="contained" onClick={handleDownloadTranscrip}>Download</Button>
+                      <Button variant="contained" onClick={handleDownloadResume}>Download</Button>
                       </div>
                     </Box>
                   </Modal>
