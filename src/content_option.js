@@ -1,4 +1,4 @@
-import myImage from './assets/images/solo.jpg';
+import myImage from './assets/images/Sun.jpg';
 const logotext = "SUN";
 const meta = {
     title: "Jetsada Waewwiset",
